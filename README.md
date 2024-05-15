@@ -1,8 +1,8 @@
-Úlohy, co byste měli umět k maturitě
+#Úlohy, co byste měli umět k maturitě
 K některým u zkoušky dostanete hotový kód k okomentování, ale v rámci přípravy si algoritmus a implementaci alespoň rozmyslete u všech
-FizzBuzz
-V potenciálně velkém seznamu, který obsahuje jen čísla v rozsahu 0-100, spočítejete výskyty jednotlivých čísel. Seznam smíte číst jen jednou. 
-V potenciálně velkém seznamu, který smíte číst jen jenou, nalezněte maximum
+-FizzBuzz
+-V potenciálně velkém seznamu, který obsahuje jen čísla v rozsahu 0-100, spočítejete výskyty jednotlivých čísel. Seznam smíte číst jen jednou. 
+-V potenciálně velkém seznamu, který smíte číst jen jenou, nalezněte maximum
 V potenciálně velkém seznamu, který smíte číst jen jednou, nalezněte druhé největší číslo
 V potenciálně velkém seznamu, který smíte číst jen je	nou, určete průměr všech prvků
 Zapište funkce pro výpočet obsahů a objemů různých geometrických obrazců a těles
