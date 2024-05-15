@@ -1,16 +1,16 @@
-fronta = []
+zasobnik = []
 
 print("commands: add x, remove, exit")
 while True:
     command = input().split(" ")
     match command[0]:
         case "add":
-            fronta.append(command[1])
-            print(fronta)
+            zasobnik.append(command[1])
+            print(zasobnik)
         case "remove":
-            fronta.pop(0)
-            print(fronta)
+            zasobnik.pop(-1)
+            print(zasobnik)
         case "exit":
-            print(fronta)
+            print(zasobnik)
             break
 
