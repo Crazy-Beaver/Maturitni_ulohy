@@ -42,7 +42,7 @@
 - složena jen z a b, v libovolném pořadí ale a je vice než b. Celková délka je nanejvýš 10
 - abeceda je leva a pravá závorka automat přijímá platná uzávorkování s počtem párů závorek nejvýše 5
 - palindromy délky 5 nad abecedou a,b,c.
-- Navrhnete Turingovy stroje, které:
+#### Navrhnete Turingovy stroje, které:
 - Zvětši číslo zapsané na pásce ve dvojkové soustavě o jedna
 - Zmenší číslo zapsané na pásce ve dvojkové soustavě o jedna
 - Nahradí ve slově na pásce každé písmeno a písmenem b
