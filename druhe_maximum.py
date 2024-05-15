@@ -14,6 +14,6 @@ for i in seznam:
     if i>max:
         max2 =max
         max = i
-    elif i>max2:
+    elif i>max2 and i!=max:
         max2 = i
 print(max, max2)
