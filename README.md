@@ -1,4 +1,4 @@
-# Úlohy, co byste měli umět k maturitě
+# Úlohy, co byste měli umět k maturitě (WIP - work in progress = ještě na tom pracuju)
 ### K některým u zkoušky dostanete hotový kód k okomentování, ale v rámci přípravy si algoritmus a implementaci alespoň rozmyslete u všech
 - FizzBuzz
 - V potenciálně velkém seznamu, který obsahuje jen čísla v rozsahu 0-100, spočítejete výskyty jednotlivých čísel. Seznam smíte číst jen jednou. 
